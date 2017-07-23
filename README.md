@@ -1,2 +1,2 @@
 
-admin data: email - admin@gmial.component, password - admin
+admin data: email - admin@gmial.com, password - admin
